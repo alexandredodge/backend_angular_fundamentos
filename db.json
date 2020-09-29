@@ -14,15 +14,19 @@
       "id": 3,
       "name": "Sansung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.00",
+      "id": 4
     }
   ],
-
-  "usuarios":[
-	{
-		"id":1,
-		"name": "Alexandre",
-		"login":"ale",
-		"senha":"123"
-	}
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "Alexandre",
+      "login": "ale",
+      "senha": "123"
+    }
   ]
 }
